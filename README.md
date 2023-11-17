@@ -1,5 +1,5 @@
 # Student-Management-System
-simple application using java and mysql.
+simple application using java and mongoDB.
 
 Spring boot and mongoDB, how to do basic database functions that are CREATE, RETIEVE, UPDATE and DELETE using mongoDB Database.
 
